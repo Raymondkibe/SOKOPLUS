@@ -1,0 +1,6 @@
+{
+  "builds": [{ "src": "index.html", "use": "@vercel/static" }],
+  "env": {
+    "API_BASE_URL": "https://sokoplus-server.onrender.com"
+  }
+}
